@@ -15,7 +15,7 @@ public class CHTextController : MonoBehaviour {
 		myState = States.cell;
 
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		print (myState);
